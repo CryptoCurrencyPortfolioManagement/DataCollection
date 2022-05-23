@@ -1,0 +1,11 @@
+AnalysisCCCorrelations/data/*
+CCScraper/data/*
+FormatUnifier/News.parquet/*
+FormatUnifier/Price.parquet/*
+FormatUnifier/Twitter.parquet/*
+NewsScraper/data/*
+Preprocessing/data/*
+Preprocessing/models/*
+RedditScraper[not used]/data/*
+TwitterScraper/data/*
+TwitterScraper/data/creds.yaml
